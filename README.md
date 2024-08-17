@@ -1,1 +1,22 @@
-# Frontend-Roadmap
+# Frontend
+- ## HTML
+  - [ ] [5D-Tutorial](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+- ## CSS
+  - [ ] [10D-Tutorial](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+  - [ ] [3D-Task1](https://www.youtube.com/watch?v=_-eh8cwGGwg&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=3&pp=iAQB)
+  - [ ] [4D-Task2](https://www.youtube.com/watch?v=heuDmrEAgUA&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=4&pp=iAQB)
+  - [ ] [5D-Task3](https://www.youtube.com/watch?v=vkc99WHcDTk&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=5&pp=iAQB) [in parallel]
+  - [ ] [6D-Task4](https://www.youtube.com/watch?v=DflEcuzjsyA&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=6&pp=iAQB) [in parallel]
+- ## JS
+  - ### Basics & DOM & BOM & API's Basics
+    - [ ] [15D-Tutorial: P1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+    - [ ] [2D-Task1: Timer](https://amrmosallem.github.io/JS-Project-I-Timer/)
+    - [ ] [3D-Task2: Todo](https://moamen-khalaf.github.io/Todo/)
+    - [ ] [5D-Task3: Creativa](https://moh123mos.github.io/Creativa/)
+  - ### API Advanced
+    - [ ] [5DTutorial](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
+      - [ ] [1D-Challange1](https://www.youtube.com/watch?v=ELL0_6TEFM4&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=11)
+      - [ ] [1D-Challenge2](https://www.youtube.com/watch?v=Kr-dQi_axg0&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=15&pp=iAQB)
+      - [ ] [3D-Challenge3](https://www.youtube.com/watch?v=eD538b05yc8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=20&pp=iAQB)
+      - [ ] [1D-Challenge4](https://www.youtube.com/watch?v=PNeRlggQMEc&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=24&pp=iAQB)
+    - [ ] [ND_Task](https://www.youtube.com/watch?v=izsIT51koT8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=31&pp=iAQB)
