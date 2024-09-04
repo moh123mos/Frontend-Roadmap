@@ -5,13 +5,14 @@
   - [ ] [10D-Tutorial](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
   - [ ] [3D - Task1](https://www.youtube.com/watch?v=_-eh8cwGGwg&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=3&pp=iAQB) [with elzero]
   - [ ] [ 4D - Kasper ](https://www.youtube.com/watch?v=heuDmrEAgUA&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=4&pp=iAQB) [By yourself]
-  - [DEMO](https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/)
+    - [DEMO](https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/)
   - [ ] [ 5D - eCommerce ](https://templatesjungle.com/downloads/shoplite-simple-ecommerce-free-figma-website-template/) [in Figma]
-  - Build The Following Pages :
-    - Home page
-    - About Page
-    - Blog Page
-    - other pages (Options)
+    - Learn [this](https://www.youtube.com/watch?v=T3rUlKf40M0)
+    - Build The Following Pages :
+      - Home page
+      - About Page
+      - Blog Page
+      - other pages (Options)
 - ## JS
   - ### Basics & DOM & BOM & API's Basics
     - [ ] [15D-Tutorial: P1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
