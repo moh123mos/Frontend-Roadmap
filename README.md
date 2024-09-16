@@ -6,13 +6,14 @@
   - [ ] [3D - Task1](https://www.youtube.com/watch?v=_-eh8cwGGwg&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=3&pp=iAQB) [with elzero]
   - [ ] [ 4D - Kasper ](https://www.youtube.com/watch?v=heuDmrEAgUA&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=4&pp=iAQB) [By yourself]
     - [DEMO](https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/)
-  - [ ] [ 5D - eCommerce ](https://templatesjungle.com/downloads/shoplite-simple-ecommerce-free-figma-website-template/) [in Figma]
+  - [ ] [ 5D - eCommerce ](https://www.figma.com/community/file/1273571982885059508/e-commerce-website-template-freebie) [in Figma]
+    - For work in my Figma Project [click me](https://www.figma.com/design/x8hmHjf3tl8ddWbftHF0Sr/E-commerce-Website-Template-(Freebie)-(Community)?node-id=0-1&node-type=canvas&t=Puu595Zdj5WKbCp1-0)
     - Learn [this](https://www.youtube.com/watch?v=T3rUlKf40M0)
     - Build The Following Pages :
       - Home page
-      - About Page
-      - Blog Page
-      - other pages (Options)
+      - Product Details Page
+      - Category Page
+      - Cart Page
 - ## JS
   - ### Basics & DOM & BOM & API's Basics
     - [ ] [15D-Tutorial: P1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
